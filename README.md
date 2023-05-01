@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/carlosneto726/projeto-Incubadora">
-    <img src="images/logo-ifg-formosa.png" alt="Logo" width="45%">
+    <img src="images/logo-ifg-formosa.png" alt="Logo" width="35%">
   </a>
 
   <h3 align="center">Projeto incubadora - Aplicativo mobile de lista de tarefas</h3>
