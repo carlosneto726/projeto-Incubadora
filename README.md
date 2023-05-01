@@ -13,24 +13,24 @@
 
 <!-- Tabela de conteudos -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Tabela de conteudos</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Sobre o projeto</a>
+      <a href="#sobre-o-projeto">Sobre o projeto</a>
       <ul>
         <li><a href="#built-with">Feito com</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Como testar o aplicativo?</a>
+      <a href="#começando">Começando</a>
       <ul>
-        <li><a href="#prerequisites">Pré Requisitos</a></li>
-        <li><a href="#installation">Instalação</a></li>
+        <li><a href="#pré-requisitos">Pré Requisitos</a></li>
+        <li><a href="#instalação">Instalação</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Licença</a></li>
-    <li><a href="#roadmap">Contato</a></li>
-    <li><a href="#contributing">Agradecimentos</a></li>
+    <li><a href="#Licença">Licença</a></li>
+    <li><a href="#contato">Contato</a></li>
+    <li><a href="#agradecimentos">Agradecimentos</a></li>
   </ol>
 </details>
 
@@ -42,7 +42,7 @@
 O projeto nasceu da vontade de um grupo da faculdade do IFG Formosa-GO em fazer uma aplicativo mobile de lista de tarefas. A proposta é fazer um aplicativo mais simples porém eficiente quando se trata de organizar as atividades do dia a dia, e de tarefas mais complexas.
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
 
 
@@ -53,11 +53,11 @@ O projeto está sendo feito com essas tecnologias.
 * [![Android Studio][Android Studio]][Android-url]
 * [![Kotlin][Kotlin]][Kotlin-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
 
 
-## Como testar o aplicativo?
+## Começando
 
 Aqui está um passo a passo de como instalar o aplicativo no seu dispositivo móvel.
 
@@ -66,8 +66,6 @@ Aqui está um passo a passo de como instalar o aplicativo no seu dispositivo mó
 Dispositivo móvel com android 12 ou superior.
 
 ### Instalação
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
 1. Clone o repositório
    ```sh
@@ -79,7 +77,7 @@ _Below is an example of how you can instruct your audience on installing and set
 3. instale o app
   Instalando o app...
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
 
 
@@ -88,7 +86,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
 
 
@@ -99,7 +97,7 @@ Contato - [@perfil](https://twitter.com/your_username) - email@gmail.com
 
 Project Link: [https://github.com/carlosneto726/projeto-Incubadora.git](https://github.com/carlosneto726/projeto-Incubadora.git)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
 
 
@@ -116,7 +114,7 @@ Use this space to list resources you find helpful and would like to give credit 
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
