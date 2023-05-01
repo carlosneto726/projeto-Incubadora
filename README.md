@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/carlosneto726/projeto-Incubadora">
-    <img src="images/logo-ifg-formosa.png" alt="Logo" width="150" height="150">
+    <img src="images/logo-ifg-formosa.png" alt="Logo">
   </a>
 
   <h3 align="center">Projeto incubadora - Aplicativo mobile de lista de tarefas</h3>
@@ -84,7 +84,7 @@ Dispositivo móvel com android 12 ou superior.
 
 ## Licença
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distribuido sobre a Licença MIT. Veja `LICENSE` para mais informções.
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
@@ -95,7 +95,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Contato - [@perfil](https://twitter.com/your_username) - email@gmail.com
 
-Project Link: [https://github.com/carlosneto726/projeto-Incubadora.git](https://github.com/carlosneto726/projeto-Incubadora.git)
+Link do projeto: [https://github.com/carlosneto726/projeto-Incubadora.git](https://github.com/carlosneto726/projeto-Incubadora.git)
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
@@ -103,16 +103,16 @@ Project Link: [https://github.com/carlosneto726/projeto-Incubadora.git](https://
 
 ## Agradecimentos
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Aqui está algumas menções relevantes sobre o projeto.
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* [Menção 1](link1)
+* [Menção 2](link2)
+* [Menção 3](link3)
+* [Menção 4](link4)
+* [Menção 5](link5)
+* [Menção 6](link6)
+* [Menção 7](link7)
+* [Menção 8](link8)
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
